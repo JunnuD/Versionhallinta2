@@ -12,3 +12,6 @@ public class miinus {
         System.out.println(i-a);
     }
 }
+
+
+// AIKA KOMEE EIKS ;)
